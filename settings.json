@@ -1,0 +1,16 @@
+{
+    "public": {
+        "persistent_session": {
+            "default_method": "persistent"
+        }
+    },
+    "private": {
+        "AWSRegion" : "eu-west-1",
+	"AWSAccessKeyId" : "AKIAJ4I5BLP2P3FWFUCA",
+	"AWSSecretAccessKey" : "NmFhcPiT9OWSj66S4QBluOv2dbnl2Kjw/3uZfsJ2",
+	"AWSBucket" : "yourviews",
+        "AWSImagesFolder" : "originals",
+        "AWSThumbNailFolder" : "thumbs",
+        "AWSSoundsFolder" : "sounds"
+    }
+}
