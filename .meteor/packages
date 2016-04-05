@@ -21,6 +21,19 @@ autopublish             # Publish all data to the clients (for prototyping)
 insecure                # Allow all DB writes from clients (for prototyping)
 accounts-ui
 accounts-base
+useraccounts:core
 useraccounts:bootstrap
 twbs:bootstrap
 accounts-password
+
+aldeed:simple-schema
+aldeed:collection2
+aldeed:autoform
+
+cfs:standard-packages
+cfs:gridfs
+cfs:s3
+cfs:filesystem
+cfs:ejson-file
+
+iron:router

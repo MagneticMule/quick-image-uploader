@@ -1,0 +1,30 @@
+.dropzone {
+    color:#aaa;
+    border: 1px dashed #777;
+    min-height: 150px;
+    padding: .9em;
+    text-align: center;
+    line-height: 150px
+
+}
+
+.dropzone:hover {
+    cursor: pointer;
+}
+
+.dropzone:dragover {
+    border-color: green;
+    color: green;
+}
+
+.upload-icon {
+    padding:0;
+    margin: 0 auto;
+    fill:94d31b;
+    display: block;
+    text-indent: -9999px;
+    width: 256px;
+    height: 256px;
+    background: url(/images/ic_file_upload_gray.svg);
+    background-size: 256px 256px;
+}
