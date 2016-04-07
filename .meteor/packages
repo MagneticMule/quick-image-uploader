@@ -23,7 +23,6 @@ accounts-ui
 accounts-base
 useraccounts:core
 useraccounts:bootstrap
-twbs:bootstrap
 accounts-password
 
 aldeed:simple-schema
