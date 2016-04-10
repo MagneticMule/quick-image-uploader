@@ -36,3 +36,4 @@ cfs:filesystem
 cfs:ejson-file
 
 iron:router
+twbs:bootstrap
