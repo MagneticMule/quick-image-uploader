@@ -1,5 +1,5 @@
 import './file_upload.html';
-import './file_upload.css';
+// import './file_upload.less';
 
 Template.fileUpload.events({
 
