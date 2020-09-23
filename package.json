@@ -5,7 +5,7 @@
     "start": "meteor run"
   },
   "dependencies": {
-    "meteor-node-stubs": "~0.2.0"
+    "meteor-node-stubs": "~0.4.1"
   },
   "version": "1.0.0",
   "main": "index.js",
